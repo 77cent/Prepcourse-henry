@@ -1,2 +1,2 @@
-Tomas araya
-PRACTICA DEL CURSO HENRY
+Tomas Araya
+PRACTICAS "HENRY"
